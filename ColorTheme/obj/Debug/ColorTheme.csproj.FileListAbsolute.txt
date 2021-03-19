@@ -1,0 +1,10 @@
+C:\Users\tyler\source\repos\Visual-Progamming-1\ColorTheme\ColorTheme\bin\Debug\ColorTheme.exe.config
+C:\Users\tyler\source\repos\Visual-Progamming-1\ColorTheme\ColorTheme\bin\Debug\ColorTheme.exe
+C:\Users\tyler\source\repos\Visual-Progamming-1\ColorTheme\ColorTheme\bin\Debug\ColorTheme.pdb
+C:\Users\tyler\source\repos\Visual-Progamming-1\ColorTheme\ColorTheme\obj\Debug\ColorTheme.csprojAssemblyReference.cache
+C:\Users\tyler\source\repos\Visual-Progamming-1\ColorTheme\ColorTheme\obj\Debug\ColorTheme.Form1.resources
+C:\Users\tyler\source\repos\Visual-Progamming-1\ColorTheme\ColorTheme\obj\Debug\ColorTheme.Properties.Resources.resources
+C:\Users\tyler\source\repos\Visual-Progamming-1\ColorTheme\ColorTheme\obj\Debug\ColorTheme.csproj.GenerateResource.cache
+C:\Users\tyler\source\repos\Visual-Progamming-1\ColorTheme\ColorTheme\obj\Debug\ColorTheme.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\Visual-Progamming-1\ColorTheme\ColorTheme\obj\Debug\ColorTheme.exe
+C:\Users\tyler\source\repos\Visual-Progamming-1\ColorTheme\ColorTheme\obj\Debug\ColorTheme.pdb
